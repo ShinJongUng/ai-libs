@@ -49,3 +49,8 @@
 - eslint
 - @radix-ui/react-icons
 - shadcn
+- tailwindcss-animate
+- class-variance-authority
+- clsx
+- tailwind-merge
+- lucide-react
