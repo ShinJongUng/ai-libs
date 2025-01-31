@@ -42,3 +42,10 @@
 - @radix-ui/react-toggle
 - @radix-ui/react-toggle-group
 - @radix-ui/react-tooltip
+- jest
+- cypress
+- ky
+- prettier
+- eslint
+- @radix-ui/react-icons
+- shadcn
