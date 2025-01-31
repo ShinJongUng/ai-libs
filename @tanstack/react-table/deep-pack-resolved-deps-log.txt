@@ -1,0 +1,2 @@
+@tanstack/table-core@8.20.5
+@tanstack/react-table@latest
